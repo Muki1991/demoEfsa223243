@@ -1,0 +1,60 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand"> <%= link_to 'Pocetna', index_path %></a>
+
+  <li class="nav-item">
+  <a> <%= link_to(' O nama ', o_nama_path) %> &nbsp; | &nbsp; </a>
+</li>
+
+<li class="nav-item">
+<a> <%= link_to('Trening', trening_path) %> &nbsp; | &nbsp; </a>
+</li>
+ 
+<li class="nav-item">
+<a> <%= link_to('Kontakt', kontakt_path) %> </a>
+</li>
+
+  <% if current_user %>
+  <a class="navbar-brand" href="#">Welcome <%= current_user.email %> </a>
+  <% end %>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+
+
+
+
+
+      <% if current_user %>
+
+      <li class="nav-item">
+       <a> <%= link_to(' My Profile ', edit_user_registration_path) %> &nbsp; | &nbsp; </a>
+      </li>
+
+      <li class="nav-item">
+        <a> <%= link_to "Log out", destroy_user_session_path, method: :delete %> &nbsp; | &nbsp; </a>
+     </li>
+
+     <% else %> 
+     <li class="nav-item">
+       <a> <%= link_to(' Log in ', new_user_session_path) %> &nbsp; | &nbsp; </a>
+    </li>
+
+    <li class="nav-item">
+      <a> <%= link_to(' Registracija ', new_user_registration_path) %> &nbsp; | &nbsp; </a>
+    </li>
+
+      <% end %>
+
+      
+
+    </ul>
+  </div>
+</nav>
+
+
+<style>
+
+</style>
