@@ -1,0 +1,38 @@
+<table cellspacing="0" cellpadding="3" bordercolor="#333333" border="1" bgcolor="#333333" style="border-collapse: collapse; border-spacing: 0px; width: 619px">
+
+<table cellspacing="0" cellpadding="3" bordercolor="#333333" border="1" style="border-collapse: collapse; border-spacing: 0px; width: 619px">
+<tbody>
+<tr valign="top">
+<td width="100%" bgcolor="#333333" style="vertical-align: top">
+<h2 align="center"><span><font color="#ffffff">PRVI JE MOTIVACIJA</font></span></h2></td></tr>
+<tr valign="top">
+<td style="vertical-align: top">
+<p align="justify"><span><span style="line-height: 18.4px; text-align: justify"><font face="Verdana">Personalni trener će vam pomoći da pružite svoj maksimum na svakom treningu, ohrabriće vas i motivisati da kvalitetno vježbate čak i onim danima kada niste raspoloženi. On je tu da vam održi visok nivo motivacije i da vam svojim znanjem pomogne da prevaziđete sve zastoje, da ostvarite svoje ciljeve i da zajedno postavite nove.</font></span></span></p></td></tr>
+<tr valign="top">
+<td bgcolor="#333333" style="vertical-align: top">
+<h2 align="center"><span><font color="#ffffff">INDIVIDUALNI PROGRAM</font></span></h2></td></tr>
+<tr valign="top">
+<td style="vertical-align: top">
+<p align="justify"><span><font face="Verdana"><span style="line-height: 18.4px; text-align: justify">Svaki program, uključujući programe treninga, ishrane, suplementacije prilagođava se vašim potrebama. Ukoliko imate specifične potrebe, hronično oboljenje ili povredu , trener će uz konsultacije s vama i vašim ljekarom napraviti siguran i efikasan plan i program koji će vam omogućiti da ostvarite svoje ciljeve.</span></font></span></p></td></tr>
+<tr valign="top">
+<td bgcolor="#333333" style="vertical-align: top">
+<h2 align="center"><span style="text-align: justify"><font color="#ffffff">POSTIGNETE CILJ</font></span></h2></td></tr>
+<tr valign="top">
+<td style="vertical-align: top">
+<p align="justify"><span><span style="line-height: 18.4px; text-align: justify"><font face="Verdana">Ciljevi koje ste postavili mogu vam djelovati nedostižno. Trener je tu da vam pomogne da se usredočite na postizanje ciljeva, prestanete da gubite vrijeme neefikasnim vežbanjem i ostvarite željene rezultate u što kraćem vremenskom periodu. Obim i intenzitet treninga trener će uskladiti sa vašom trenutnom formom.</font></span></span></p></td></tr>
+<tr valign="top">
+<td bgcolor="#333333" style="vertical-align: top">
+<h2 align="center"><span><font color="#ffffff">PRAVILNO VJEŽBANJE</font></span></h2></td></tr>
+<tr valign="top">
+<td style="vertical-align: top">
+<p align="justify"><span style="line-height: 18.4px; text-align: justify"><font face="Verdana">Bez obzira na to da li ste početnik ili imate određeno vježbačko iskustvo u teretani, neophodno je da sve vježbe izvodite pravilno i na taj način svedete mogućnost od povreda na minimum. Trener je svo vrijeme uz vas tokom treninga i kontroliše da sve vježbe izvodite pravilno.</font></span></p></td></tr>
+<tr valign="top">
+<td bgcolor="#333333" style="vertical-align: top">
+<h2 align="center"><span><font color="#ffffff">ZDRAVLJE NA PRVOM MJESTU</font></span></h2></td></tr>
+<tr valign="top">
+<td style="vertical-align: top">
+<p align="justify"><span><span style="line-height: 18.4px; text-align: justify"><font face="Verdana">Redovna i pravilno dozirana fizička aktivnost i do 50 odsto može smanjiti mogućnost nastajanja pojedinih oboljenja. Pobijedite stres i poboljšajte svoje psihofizičko zdravlje kako bi depresija i loše raspoloženje postali vaša prošlost.</font></span></span></p></td></tr></tbody></table><span><br />
+</span></div>
+<div><span><br />
+</span></div>
+<h2 align="center"><span style="font-family: Verdana; text-align: justify">Bez obzira na godine i obaveze uvijek je pravo vrijeme da počnete zdravije da živite, pravilno se hranite i vježbate u&nbsp;skladu sa zdravstvenim stanjem</span><span style="font-family: Verdana; text-align: justify">.</span></h2>
